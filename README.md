@@ -14,7 +14,7 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### User Story
+### User Stories
 ```
 Given I am a job hunter,
 When I sign up,
@@ -43,6 +43,23 @@ I can upload jobs
 Given I am a jobhunter,
 When I finish with the search,
 I can log out.
+```
+
+### MVP (Wednesday 4.09)
+```
+* Job hunter can sign up
+* Job hunter can sign in
+* Job hunter can upload profile inc. bio, skills & personality
+* There is a wall of job hunters
+```
+#### Further Requirements
+```
+* Employers can sign up
+* Employers can only see job hunters
+* Employers can search profiles
+* Employers can upload jobs
+* Job hunters can add what type of job they want
+* There is a matching algorithm based on Employer & JH 
 ```
 
 ### Installing
@@ -115,5 +132,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Hat tip to anyone whose code was used
 * Inspiration
-* etc
+
 
